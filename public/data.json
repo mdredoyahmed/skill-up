@@ -1,0 +1,125 @@
+ [
+      {
+        "id": "1",
+        "event_name": "Digital Marketing Workshop",
+        "image": "https://i.ibb.co/LzvfLyY/digital-marketing.webp",
+        "date": "2023-11-20",
+        "start_time": "10:00 AM",
+        "end_time": "03:00 PM",
+        "price" :"2000",
+        "location": "123 Marketing Street, Cityville",
+        "description": "A hands-on workshop covering digital marketing strategies.",
+        "organizer": "Digital Marketing Institute",
+        "registration_link": "https://example.com/digital-marketing-workshop-registration"
+      },
+      {
+        "id": "2",
+        "event_name": "Data Science Masterclass",
+        "image": "https://i.ibb.co/MZ6CBnp/data-scence.jpg",
+        "date": "2023-12-10",
+        "start_time": "09:30 AM",
+        "end_time": "05:30 PM",
+        "price" :"4500",
+        "location": "789 Data Avenue, Datatown",
+        "description": "Explore advanced data science concepts and techniques.",
+        "organizer": "Data Insights Academy",
+        "registration_link": "https://example.com/data-science-masterclass-registration"
+      },
+      {
+        "id": "3",
+        "event_name": "Photography Basics Course",
+        "image": "https://i.ibb.co/b2js1NG/photo-graphy.webp",
+        "date": "2024-01-05",
+        "start_time": "11:00 AM",
+        "end_time": "01:00 PM",
+        "price" :"3100",
+        "location": "456 Shutter Lane, Picnicville",
+        "description": "Learn the fundamentals of photography and camera use.",
+        "organizer": "Photography Enthusiasts Club",
+        "registration_link": "https://example.com/photography-course-registration"
+      },
+      {
+        "id": "4",
+        "event_name": "Business Leadership Seminar",
+        "image": "https://i.ibb.co/1QQwkQC/businness.jpg",
+        "date": "2024-02-15",
+        "start_time": "02:00 PM",
+        "end_time": "05:00 PM",
+        "price" :"2500",
+        "location": "101 Leadership Drive, Executivetown",
+        "description": "Enhance your leadership skills for business success.",
+        "organizer": "Leadership Academy",
+        "registration_link": "https://example.com/business-leadership-seminar-registration"
+      },
+      {
+        "id": "5",
+        "event_name": "Java Programming Bootcamp",
+        "date": "2024-09-10",
+        "image": "https://i.ibb.co/5WsfT9G/java.jpg",
+        "start_time": "09:00 AM",
+        "end_time": "05:00 PM",
+        "price" :"5200",
+        "location": "789 Code Avenue, Javatown",
+        "description": "A comprehensive bootcamp for learning Java programming.",
+        "organizer": "Code Masters Academy",
+        "registration_link": "https://example.com/java-bootcamp-registration",
+        "technologies": ["Java"]
+      },
+      
+      {
+        "id": "6",
+        "event_name": "Graphic Design Workshop",
+        "image": "https://i.ibb.co/LZPGJNM/learning-graphic-design.png",
+        "date": "2024-04-20",
+        "start_time": "09:00 AM",
+        "end_time": "04:00 PM",
+        "price" :"1500",
+        "location": "567 Design Street, Creativity City",
+        "description": "Hands-on training in graphic design tools and techniques.",
+        "organizer": "Creative Studio Academy",
+        "registration_link": "https://example.com/graphic-design-workshop-registration"
+      },
+      {
+        "id": "7",
+        "event_name": "Artificial Intelligence Conference",
+        "image": "https://i.ibb.co/DYLhfbR/ai.png",
+        "date": "2024-05-12",
+        "start_time": "08:30 AM",
+        "end_time": "06:00 PM",
+        "price" :"4300",
+        "location": "888 Tech Boulevard, AITechCity",
+        "description": "Explore the latest trends in artificial intelligence and machine learning.",
+        "organizer": "AI Innovators Forum",
+        "registration_link": "https://example.com/ai-conference-registration"
+      },
+      {
+        "id": "8",
+        "event_name": "Entrepreneurship Bootcamp",
+        "image": "https://i.ibb.co/wBqVN78/enterprenure.jpg",
+        "date": "2024-06-08",
+        "start_time": "10:00 AM",
+        "end_time": "05:00 PM",
+        "price" :"7500",
+        "location": "555 Startup Lane, Innovatetown",
+        "description": "Launch and grow your own business with expert guidance.",
+        "organizer": "Startup Accelerator Inc.",
+        "registration_link": "https://example.com/entrepreneurship-bootcamp-registration"
+      },
+      
+      {
+        "id": "9",
+        "event_name": "Web Developer Bootcamp",
+        "image": "https://i.ibb.co/pnrfP6B/Web-Dev.jpg",
+        "date": "2024-10-15",
+        "start_time": "10:00 AM",
+        "end_time": "04:00 PM",
+        "price" :"2400",
+        "location": "123 Code Street, Webville",
+        "description": "An intensive bootcamp covering web development technologies and best practices.",
+        "organizer": "WebDev Pro Academy",
+        "registration_link": "https://example.com/web-dev-bootcamp-registration",
+        "technologies": ["HTML", "CSS", "JavaScript", "React", "Node.js"]
+      }
+    ]
+  
+  
